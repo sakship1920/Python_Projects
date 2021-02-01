@@ -1,4 +1,4 @@
-# Python_Projects
+
 <h1 align="center"><u>Python_Projects</u></h1>
 
 |<h1 align="center">Snake Game</h1>|<h1 align="center">Password Manager</h1>|
